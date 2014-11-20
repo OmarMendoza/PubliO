@@ -1,0 +1,887 @@
+{
+		"name": "Campañas",
+		"children": [ { "name":"Protección civil",
+			"children": [],
+			"size": 0
+			},{ "name":"Emergencias y desastres naturales",
+			"children": [],
+			"size": 0
+			},{ "name":"Avisos importantes",
+			"children": [],
+			"size": 0
+			},{ "name":"Vialidad y transporte",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/639",
+                    "name": "Nueva ley de transporte",
+                    "size": 141600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/691",
+                    "name": "Taxi seguro",
+                    "size": 59000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 200600
+			},{ "name":"Seguridad pública y justicia",
+			"children": [],
+			"size": 0
+			},{ "name":"Informes de gobierno",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/743",
+                    "name": "Útiles y uniformes 2014",
+                    "size": 762000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 762000
+			},{ "name":"Desarrollo social",
+			"children": [],
+			"size": 0
+			},{ "name":"Educación",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/664",
+                    "name": "Universidad tecnológica de la Sierra Sur",
+                    "size": 282200,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/710",
+                    "name": "Foros Diálogos por la Educación",
+                    "size": 220600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/678",
+                    "name": "IEEA ",
+                    "size": 209535.31,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/645",
+                    "name": "Feria de posgrados",
+                    "size": 185680,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/670",
+                    "name": "Ceremonia día del maestro",
+                    "size": 168000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/625",
+                    "name": "8° Congreso 3 y 1er congreso inter3 agroindustrial, alimentario y biotecnológico",
+                    "size": 126000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/709",
+                    "name": "Entrega de fichas UTVCO",
+                    "size": 119400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/640",
+                    "name": "Primera jornada 2 de incorporación y acreditación 2014",
+                    "size": 112000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/644",
+                    "name": "Primera jornada 3 de incorporación y acreditación 2014",
+                    "size": 101280,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/633",
+                    "name": "Inscripciones 2014 UTVCO",
+                    "size": 100200,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/617",
+                    "name": "Foro humanismo interculturalidad y bioética",
+                    "size": 55000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/624",
+                    "name": "Tercer informe de labores CECYTEO",
+                    "size": 46200,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/729",
+                    "name": "Brigadas de incorporación",
+                    "size": 44000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/731",
+                    "name": "Plantel atzompa CECYTEO",
+                    "size": 44000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 1814095.31
+			},{ "name":"Deportes",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/675",
+                    "name": "Carrera atlética por la discapacidad",
+                    "size": 44000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/688",
+                    "name": "Carrera del abogado",
+                    "size": 25000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 69000
+			},{ "name":"Turismo",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/721",
+                    "name": "Guelaguetza 2014",
+                    "size": 5503855.99,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/744",
+                    "name": "Verano Huatulco-verano Puerto Escondido",
+                    "size": 2504210.5,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/711",
+                    "name": "Guelaguetza venta de boletos",
+                    "size": 587000.8,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/642",
+                    "name": "Semana Santa",
+                    "size": 555603.59,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/745",
+                    "name": "Verano Puerto Escondido-playa (tienes que vivirlo)",
+                    "size": 506862,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/619",
+                    "name": "Carnaval Putleco 2014",
+                    "size": 495978.51,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/618",
+                    "name": "Carnaval de la Costa",
+                    "size": 482400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/643",
+                    "name": "Semana Santa 2014",
+                    "size": 459379,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/747",
+                    "name": "Décimo séptima Feria Inter3 del Mezcal 2014",
+                    "size": 449740,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/724",
+                    "name": "Guelaguetza-cartel (Guelaguetza 2014)",
+                    "size": 404676.62,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/720",
+                    "name": "Feria Inter3 del Mezcal (Guelaguetza 2014)",
+                    "size": 404676.62,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/662",
+                    "name": "Semana Santa Puerto Escondido ",
+                    "size": 389117.74,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/622",
+                    "name": "Sexto aniversario de Capulálpam",
+                    "size": 334400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/692",
+                    "name": "Ven a Oaxaca (ven a Oaxaca)",
+                    "size": 291131,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/686",
+                    "name": "Velas de Mayo ",
+                    "size": 278077.37,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/629",
+                    "name": "Guendaliza 2014",
+                    "size": 212800,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/658",
+                    "name": "Atrévete a ser turista en tu estado",
+                    "size": 210200,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/646",
+                    "name": "Fiesta de los 4 Moles de la Mixteca",
+                    "size": 184800,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/672",
+                    "name": "9° Campeonato de pesca deportiva big game",
+                    "size": 168000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/696",
+                    "name": "Expo feria de Huajuapan",
+                    "size": 159000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/669",
+                    "name": "Torneo de pesca deportiva",
+                    "size": 154000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/668",
+                    "name": "Feria de la piña",
+                    "size": 154000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/717",
+                    "name": "Feria del Mezcal",
+                    "size": 129750.4,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/707",
+                    "name": "Décimo quinto torneo de pez vela Salina Cruz 2014",
+                    "size": 111000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/630",
+                    "name": "3er Rally Oaxaca nacam",
+                    "size": 108600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/718",
+                    "name": " Feria del quesillo (4ta expo feria del queso y quesillo)",
+                    "size": 89330.34,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/732",
+                    "name": "Ven a Oaxaca",
+                    "size": 86190,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/659",
+                    "name": "Fiestas de Mayo en Salina Cruz",
+                    "size": 60600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/700",
+                    "name": "Velas de Juchitán",
+                    "size": 54000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/704",
+                    "name": "Campeonato elite sub 23",
+                    "size": 54000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/653",
+                    "name": "Playas limpias",
+                    "size": 46600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/749",
+                    "name": "Guelaguetza-mujer (Guelaguetza 2014)",
+                    "size": 43606.5,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/693",
+                    "name": "Festival de los Moles",
+                    "size": 40000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/723",
+                    "name": "Guelaguetza promocional (Guelaguetza 2014)",
+                    "size": 39812.39,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/748",
+                    "name": "Feria Nochixtlan 2014",
+                    "size": 35000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/699",
+                    "name": "Tercera feria de la tlayuda",
+                    "size": 32000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/701",
+                    "name": "Recorrido de municipios 2014",
+                    "size": 31000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/666",
+                    "name": "Festival del Vino",
+                    "size": 20000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/737",
+                    "name": "Feria de Nochixtlán 2014",
+                    "size": 15466.66,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/722",
+                    "name": "Guelaguetza 82 años",
+                    "size": 10311.11,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/725",
+                    "name": "Huatulco (verano 2014)",
+                    "size": 6612,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/727",
+                    "name": "Ven a Oaxaca",
+                    "size": 6612,
+                    "value": 4.6443908991413725
+                }],
+			"size": 15910401.14
+			},{ "name":"Economía y negocios",
+			"children": [],
+			"size": 0
+			},{ "name":"Ciencia y tecnología",
+			"children": [],
+			"size": 0
+			},{ "name":"Obras públicas",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/708",
+                    "name": "Desazolve en la red de drenaje",
+                    "size": 59400,
+                    "value": 4.6443908991413725
+                }],
+			"size": 59400
+			},{ "name":"Civismo y legalidad",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/631",
+                    "name": "Certeza jurídica y justicia laboral",
+                    "size": 19200,
+                    "value": 4.6443908991413725
+                }],
+			"size": 19200
+			},{ "name":"Desarrollo social y humano",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/641",
+                    "name": "Reglas de operación",
+                    "size": 258591.04,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/608",
+                    "name": "Abraza a tu hermano y hermana",
+                    "size": 204600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/730",
+                    "name": "Expo emprende joven",
+                    "size": 66000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 529191.04
+			},{ "name":"Avisos y concocatorias",
+			"children": [],
+			"size": 0
+			},{ "name":"Tramites y servicios",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/741",
+                    "name": "Registro extemporáneo",
+                    "size": 510620.5,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/623",
+                    "name": "Tenencia vehicular",
+                    "size": 410400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/742",
+                    "name": "Registro extemporáneo (registro extemporáneo)",
+                    "size": 281966.53,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/728",
+                    "name": "Pago de tenencia vehicular",
+                    "size": 238000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/671",
+                    "name": "Pago tenencia vehicular (modelos 2014)",
+                    "size": 210652.74,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/684",
+                    "name": "SETRAO junta de conciliación ",
+                    "size": 209535.31,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/751",
+                    "name": "Segundo periodo de verificación vehicular",
+                    "size": 204154.98,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/667",
+                    "name": "Procuraduría",
+                    "size": 201773.95,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/712",
+                    "name": "Hacemos todo para que tu prenda regrese contigo",
+                    "size": 198800,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/681",
+                    "name": "Pago de tenencia vehicular (estímulo fiscal)",
+                    "size": 193000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/734",
+                    "name": "Ciudadano distinguido SAPAO",
+                    "size": 176000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/655",
+                    "name": "Operativo migrantes",
+                    "size": 149000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/610",
+                    "name": "Febrero mes del Amor y el Matrimonio",
+                    "size": 140000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/714",
+                    "name": "Plataforma Bienestar",
+                    "size": 137930,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/661",
+                    "name": "Pago de agua potable",
+                    "size": 93400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/663",
+                    "name": "SETRAO servicios de la procuraduría para la defensa del trabajo",
+                    "size": 90120,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/713",
+                    "name": "Pago de tenencia vehicular (modelos 2014)",
+                    "size": 84000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/616",
+                    "name": "Bodas colectivas",
+                    "size": 70400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/690",
+                    "name": "Estímulo fiscal para el pago de tenencia vehicular (camaña pago de tenencia vehicular)",
+                    "size": 43606.5,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/716",
+                    "name": "Segundo periodo de verificación vehicular (campaña pago de tenencia vehicular)",
+                    "size": 37815.28,
+                    "value": 4.6443908991413725
+                }],
+			"size": 3681175.79
+			},{ "name":"Derechos humanos",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/612",
+                    "name": "Libre de violencia",
+                    "size": 539420,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/609",
+                    "name": "Derecho de los migrantes",
+                    "size": 333600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/689",
+                    "name": "Derechos de los niños",
+                    "size": 324560,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/634",
+                    "name": "Vivir libre de violencia",
+                    "size": 235600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/665",
+                    "name": "Alto al trabajo infantil",
+                    "size": 201773.95,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/611",
+                    "name": "IMO",
+                    "size": 116379,
+                    "value": 4.6443908991413725
+                }],
+			"size": 1751332.95
+			},{ "name":"Derechos de los niños",
+			"children": [],
+			"size": 0
+			},{ "name":"Equidad de género",
+			"children": [],
+			"size": 0
+			},{ "name":"Pueblos indígenas",
+			"children": [],
+			"size": 0
+			},{ "name":"Ecología y medio ambiente",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/620",
+                    "name": "Primer periodo de verificación vehicular",
+                    "size": 266000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/651",
+                    "name": "Yo valoro el agua (SAPAO cuidado del agua)",
+                    "size": 201773.95,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/660",
+                    "name": "Incendios forestales (SEDAFPA incendios forestales)",
+                    "size": 201773.95,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/628",
+                    "name": "Concurso de papalotes",
+                    "size": 191200,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/605",
+                    "name": "Acopio de árboles navideños",
+                    "size": 176000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/635",
+                    "name": "Agricultura por conservación",
+                    "size": 143400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/607",
+                    "name": "Yo valoro el agua",
+                    "size": 140000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/615",
+                    "name": "Tumba, roza y quema",
+                    "size": 140000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/638",
+                    "name": "La hora del planeta",
+                    "size": 128400,
+                    "value": 4.6443908991413725
+                }],
+			"size": 1588547.9
+			},{ "name":"Transparencia y rendición de cuentas",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/673",
+                    "name": "Declaración patrimonial de servidores públicos",
+                    "size": 209535.31,
+                    "value": 4.6443908991413725
+                }],
+			"size": 209535.31
+			},{ "name":"Participación ciudadana",
+			"children": [],
+			"size": 0
+			},{ "name":"Felicitaciones, esquelas y condolencias",
+			"children": [],
+			"size": 0
+			},{ "name":"Otro",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/739",
+                    "name": "Paulina y el buscapié (domingos en el tequio)",
+                    "size": 281966.53,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/736",
+                    "name": "Exposición de ganado suizo",
+                    "size": 253800,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/703",
+                    "name": "Parque Las Canteras Junio",
+                    "size": 84000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/654",
+                    "name": "Parque Las Canteras",
+                    "size": 46400,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/698",
+                    "name": "Parque Las Canteras Julio",
+                    "size": 44000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/750",
+                    "name": "Parque Las Canteras-programa",
+                    "size": 43606.5,
+                    "value": 4.6443908991413725
+                }],
+			"size": 753773.03
+			},{ "name":"Infraestructura, Desarrollo Económico y Turismo ",
+			"children": [],
+			"size": 0
+			},{ "name":"Finanzas",
+			"children": [],
+			"size": 0
+			},{ "name":"Seguridad y Justicia ",
+			"children": [],
+			"size": 0
+			},{ "name":"Desarrollo Rural",
+			"children": [],
+			"size": 0
+			},{ "name":"Salud e higiene ",
+			"children": [],
+			"size": 0
+			},{ "name":"Cultura ",
+			"children": [],
+			"size": 0
+			},{ "name":"Desarrollo Social y Huamno   ",
+			"children": [],
+			"size": 0
+			},{ "name":"Protección civil, emergencias y desastres naturales ",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/715",
+                    "name": "Prevención ante sismos",
+                    "size": 424450,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/752",
+                    "name": "Temporada de lluvias",
+                    "size": 268340.96,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/735",
+                    "name": "Durante un sismo (prevención ante un sismo)",
+                    "size": 15466.66,
+                    "value": 4.6443908991413725
+                }],
+			"size": 708257.62
+			},{ "name":"Seguridad Pública  y Justicia ",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/614",
+                    "name": "Seguridad Pública",
+                    "size": 563600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/621",
+                    "name": "Rumor en redes sociales",
+                    "size": 442000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/650",
+                    "name": "Canje y registro de armas-genérico (canje y registro de armas de fuego y explosivos, Oaxaca 2014)",
+                    "size": 271373.95,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/682",
+                    "name": "Prevención de la extorsión",
+                    "size": 248760,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/683",
+                    "name": "Prevención del delito",
+                    "size": 242760,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/676",
+                    "name": "Alerta amber",
+                    "size": 240109.29,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/656",
+                    "name": "Semana Santa segura",
+                    "size": 230000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/636",
+                    "name": "Canje de armas",
+                    "size": 193920,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/649",
+                    "name": "Evitar fraudes con las visas",
+                    "size": 167720,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/702",
+                    "name": "Guelaguetza medidas de prevención",
+                    "size": 60000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 2660243.24
+			},{ "name":"Cultura y artes ",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/695",
+                    "name": "Décimo séptimo festival cultural María Sabina 2014 mujer y espíritu",
+                    "size": 244600,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/648",
+                    "name": "Catapulta fest 2014 catherin",
+                    "size": 217200,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/726",
+                    "name": "Keramika",
+                    "size": 215517.24,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/647",
+                    "name": "Muestra inter3 de danza",
+                    "size": 201000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/746",
+                    "name": "Concierto para Papá (domingos en el tequio)",
+                    "size": 174241.67,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/606",
+                    "name": "Aniversario CDO",
+                    "size": 140000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/627",
+                    "name": "Concierto Emmanuel y Mijares",
+                    "size": 134219.55,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/719",
+                    "name": "Encuentro artesanal (encuentro artesanal Guelaguetza 2014)",
+                    "size": 127145.62,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/697",
+                    "name": "Concierto Lila Downs",
+                    "size": 112000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/738",
+                    "name": "Keramiká",
+                    "size": 76366.65,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/637",
+                    "name": "Concierto Emmanuel y Mijares",
+                    "size": 76241.72,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/706",
+                    "name": "Concierto para Papá",
+                    "size": 74000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/694",
+                    "name": "Concierto Susana Harp",
+                    "size": 73800,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/657",
+                    "name": "482 Aniversario de Oaxaca",
+                    "size": 52800,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/652",
+                    "name": "Expo venta artesanal Semana Santa",
+                    "size": 14000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 1933132.45
+			},{ "name":"Protección civil, emergencias y desastresnaturales ",
+			"children": [],
+			"size": 0
+			},{ "name":"Desarrollo social y hum,ano  ",
+			"children": [],
+			"size": 0
+			},{ "name":"Salud  ",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/613",
+                    "name": "Salud (influenza - infecciones respiratorias)",
+                    "size": 390420,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/674",
+                    "name": "Hazlo seguro (hazlo seguro, usa condón)",
+                    "size": 279135.31,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/677",
+                    "name": "Hazlo seguro",
+                    "size": 225760,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/680",
+                    "name": "Mes de la discapacidad",
+                    "size": 216840.5,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/685",
+                    "name": "Temporada de calor",
+                    "size": 214173.6,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/679",
+                    "name": "Jornada de discapacidad",
+                    "size": 144000,
+                    "value": 4.6443908991413725
+                }],
+			"size": 1470329.41
+			},{ "name":"Avisos y convocatorias ",
+			"children": [ {
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/740",
+                    "name": "Reclutamiento 2014",
+                    "size": 499857.2,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/632",
+                    "name": "Fondo de apoyo a migrantes",
+                    "size": 235240,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/733",
+                    "name": "Auto empleo juvenil",
+                    "size": 204000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/705",
+                    "name": "Concurso Benito Juárez",
+                    "size": 98000,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/626",
+                    "name": "3er Concurso de fibras vegetales",
+                    "size": 67200,
+                    "value": 4.6443908991413725
+                },{
+                    "url": "http://localhost/publicidadoficialcopia/index.php/campas/detalle_campa/687",
+                    "name": "Concurso 3 juvenil de debate político",
+                    "size": 44800,
+                    "value": 4.6443908991413725
+                }],
+			"size": 1149097.2
+			},{ "name":"Protección civil, emrgencias y desastres naturales",
+			"children": [],
+			"size": 0
+			},{ "name":"Protección civil, emergencias y desatsres naturales  ",
+			"children": [],
+			"size": 0
+			},{ "name":"Seguridad  pública y justicia",
+			"children": [],
+			"size": 0
+			},{ "name":"Equuidad de género ",
+			"children": [],
+			"size": 0
+			},{ "name":"Seguridad  pública y   justicia",
+			"children": [],
+			"size": 0
+			},{ "name":"Desarrollo social y humao  ",
+			"children": [],
+			"size": 0
+			},{ "name":"Seguridad pública  y Justitcia",
+			"children": [],
+			"size": 0
+			},{ "name":"Equidad y género ",
+			"children": [],
+			"size": 0
+			}] }

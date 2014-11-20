@@ -1,0 +1,615 @@
+@charset "utf-8";
+/* CSS Document */
+
+/***********Menú***********/
+.caja{
+    max-width: 100%; 
+    height: 50px; 
+	background:url(../images/menu.jpg) repeat-x; 
+	margin:10px auto;
+}
+.caja-sombra{
+    position: relative; 
+    /*float: left;*/
+}
+.caja-sombra:before, .caja-sombra:after{
+    content: "";
+    position: absolute;
+    z-index: -2;
+}
+.caja-sombra:before{
+    bottom:32px;
+    left: 10px;
+    width: 50%;
+    height: 50%;
+    box-shadow: 0 18px 2px rgba(203,203,203,1);
+    -webkit-transform: rotate(-2deg) translate(0px,0px) skew(-14deg);
+    -moz-transform: rotate(-2deg) translate(0px,0px) skew(-14deg);
+    -o-transform: rotate(-2deg) translate(0px,0px) skew(-14deg);
+    transform: rotate(-2deg) translate(0px,0px) skew(-14deg);
+}
+.caja-sombra:after{
+    bottom: 30px;
+    width: 38%;
+    height: 50%;
+    right: 10px;
+    left: auto;
+    box-shadow: 0 18px 2px rgba(203,203,203,1);
+	-webkit-transform: rotate(2deg) translate(0px,0px) skew(14deg);
+    -moz-transform: rotate(2deg) translate(0px,0px) skew(14deg);
+    -o-transform: rotate(2deg) translate(0px,0px) skew(14deg);
+    transform: rotate(2deg) translate(0px,0px) skew(14deg);
+}
+
+.search{
+      margin:20px auto; border:1px solid #fff;
+	  width:100%; height:45px;	
+}
+.searchinst{
+	background:url(../images/barrabs.png) no-repeat; 
+	background-size:275px 46px;
+	background-position:left 4px; 
+}
+
+/***********Menú***********/
+.menutree{
+	width:100%; border-style: double; margin:0px auto;
+	border-width: 4px; height:25px; border-left:none; 
+	border-right:none;  border-top:none; color:#868686; 
+	b-webkit-box-shadow: 0 8px 6px -6px #868686;
+	   -moz-box-shadow: 0 8px 6px -6px #868686;
+	        box-shadow: 0 8px 6px -6px #868686; 
+}
+
+.menutree ul, li {
+    list-style-type: none;        
+}
+
+.menutree ul {
+	margin: 0;
+    padding: 0; 
+}
+
+.menutree li {		
+     float: left;
+	 text-align:left;
+}
+
+.menutree li a { 
+        text-outline:none; 
+		text-decoration:none;
+        color: #818185;
+		font-family:Arial;
+	    font-size:12px;
+        display: block;
+        padding: 5px 0px;
+}
+
+.menutree a#primero {        
+		background:url(../images/ib.png) no-repeat bottom;
+}
+
+.menutree a:hover {		
+		background:url(../images/ib.png) no-repeat bottom;
+}
+/***********Botón de búsqueda*******/
+#searchwrapper {
+width:38%; /*follow your image's size*/
+height:27.5px;/*follow your image's size*/ 
+border:1px solid #ccc;
+padding:0px;
+margin:9px 260px; border-left:none;
+position:relative; /*important*/
+}
+ 
+#searchwrapper form { display:inline ; z-index:99; }
+ 
+.searchbox {
+border:1px solid #C0C0C2; border-left:none; 
+position:relative;
+left:271px; top:3px;
+width:300px;
+height:22px; color:#868686;
+font-family:Arial; font-size:12px;
+}
+ 
+.searchbox:focus { 
+ outline:none;
+}
+ 
+.searchbox_submit {
+background-color:transparent; /*important*/
+position:relative; /*important*/
+top:12px;
+left:268px;
+width:14px;
+height:18px; border:1px solid #C0C0C2; 
+padding:3px; padding-bottom:3px; cursor:pointer;
+}
+.search_position{
+position:relative; border:1px solid #C0C0C2; 
+left:265px; top:12px; padding:2px; padding-top:3px;
+cursor:pointer; 
+}
+/***********Botón de búsqueda*******/
+
+#Panela{
+   position:absolute; cursor:pointer; width:28px;
+   min-height:530px; top:10px; left:0px;
+   background:#029CDD; 
+   vertical-align:central; display:none; padding-left:3px; padding-right:3px;	
+}
+
+#Filtros{
+   width:270px;  
+   position: absolute; background-color: rgba(255, 255, 255, 0.5);
+   top:10px; left:14px; min-height:530px;
+}
+
+#Panelc{
+  position:absolute; cursor:pointer; width:28px;
+  min-height:530px; top:0px; left:270px;
+  background:#999A9C; 
+  vertical-align:central; padding-left:3px; padding-right:3px;
+}
+
+.comb{ background:#019CDE; min-height:30px; padding:2px;}
+
+/***********Resultados*******/
+.resultados{
+	width:100%;
+	margin:0px auto; 
+	display:table;
+	position:relative; 
+	z-index:99; 
+}
+.item{
+	width:50%;
+	height:100px;
+	display: table-cell;
+	text-align:center;
+	border-left: 1px solid #B6B6B6;
+	color:#606163; 	font-size:11px; font-family:Arial;
+}
+
+.itemtab{ 
+   margin-top:10px;
+}
+.tabnum{
+	font-size:3.5em; color:#019CDF; font-stretch:condensed;
+}
+.tabtex{
+	font-size:17px; color:#666769; font-weight:600; font-stretch:condensed; text-transform:none;
+	
+}			
+
+/*************tablero numeros********************/
+.box
+{
+    width: 100%;
+    height: 150px;
+    background: #fff; margin:-80px auto; 
+}
+.box-sombra
+{
+    /*position: relative;*/
+    margin: 5px auto; border:1px solid red;
+    -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1), 0 0 30px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1), 0 0 30px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1), 0 0 30px rgba(0, 0, 0, 0.1) inset;
+}
+.box-sombra:before, .box-sombra:after
+{
+    content: "";
+   /* position: absolute; */
+    z-index: -2; 
+}
+.somb1:before
+{ 
+    top: 10px;
+    bottom: 10px;
+    left: 0;
+    right: 50%;
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    -moz-border-radius: 5px / 100px;
+    border-radius: 5px / 100px;
+}
+.somb2:before
+{
+    right: 0;
+}
+.boxe 
+{
+  width:80%; 
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.1) inset;
+  border-radius: 1%     1%     1%     1% /     1%     1%     1%     1%;
+  margin:0px auto;
+}
+.boxe:before {
+      position: absolute;
+      width: 45%;
+      height: 6%;
+      left: 23%;
+      /*border-radius: 48%;*/
+      z-index: -1;
+      top: 0%;
+      content: "";
+      box-shadow: 0 -2px 2px rgba(0,0,0,0.2);
+}
+.boxe:after {
+      position: absolute;
+      width: 45%;
+      height: 6%;
+      left: 23%;
+      /*border-radius: 48%;*/
+      z-index: -1;
+      bottom: 0%;
+      content: "";
+      box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+}
+
+/***********Resultados*******/
+select{
+border: 1px solid #868686;
+color:#868686;
+font-family:Arial;
+font-size:12px;
+}
+
+
+
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { 
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, {
+	margin-top: 0;	 
+	padding-right: 15px;
+	padding-left: 15px; 
+}
+
+/* ~~this fixed width container surrounds the other divs~~ */
+.container {
+	max-width: 80%;
+	margin: 10px auto;  	
+}
+
+
+
+/* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
+.header {
+	margin-top:20px; 	
+}
+
+
+.sbmenu{
+    width:auto;
+	background:url(../images/mn.jpg) repeat-x; 
+	height:38px;	
+	cursor:pointer;	
+	 -moz-box-shadow: 0px 3px 3px #888;
+    -webkit-box-shadow: 0px 3px 3px #888;
+    box-shadow: 0px 3px 3px #888; 
+}
+
+.sbmenu a {
+        text-decoration: none;
+        color: #fff; 
+		font-family:Arial;
+	    font-size:12px;
+        display: block;
+        padding: 12px 10px;
+        text-align: left;
+}
+
+
+
+.content {     
+    margin: 10px auto;
+	max-width: 80%;       
+}
+
+.fondo{
+    background: url('../images/cargandow.gif') #fff center no-repeat;   
+}
+.fondo2{
+    position: absolute;
+    width: 234px;
+    height: 300px;      
+    background: url('../images/cargando.gif') #fff no-repeat center;   
+    opacity: 0.4;
+    display: none;
+}
+
+/* ~~ This grouped selector gives the lists in the .content area space ~~ */
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; 
+}
+
+/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
+ul.nav {
+	list-style: none; 
+	border-top: 1px solid #666; 
+	margin-bottom: 15px;
+}
+ul.nav li {
+	border-bottom: 1px solid #666; 
+}
+ul.nav a, ul.nav a:visited { 
+	padding: 5px 5px 5px 15px;
+	display: block;
+	width: 160px;  
+	text-decoration: none;
+	background: #C6D580;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { 
+	background: #ADB96E;
+	color: #FFF;
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	color:#8D8D8D;
+	max-width:100%; 
+	margin:0px auto;
+	font-size:14px; 
+	border-top:10px solid #000000; 
+	padding:20px 30px;
+	background:#333333;
+	min-height:58px;
+	font-family: Arial;
+}
+
+hr{ margin-top:30px; width:100%; height:0px;
+	margin-right:0%; margin-left:0px; box-shadow: 0 1px 5px 1px #262425;
+}
+.footer li a{
+	font-size:11px; outline:none;
+	text-decoration:none; 
+	text-transform:none;
+	color:#8D8D8D;
+}
+
+ul.social { padding-top:0px; margin-bottom:6px; }
+.social li { display:inline-block; margin:0px 2px;}
+.social li a { display:block; -webkit-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;  -o-transition: all 0.3s ease 0s;
+transition: all 0.3s ease 0s; }
+ul.social a {text-indent:-9000px; text-decoration:none; height:27px; width:27px;}
+
+.google {background:url(../imagenes/pie/g.png) no-repeat; background-size:27px 27px; }
+.twitter {background:url(../imagenes/pie/tw.png) no-repeat; background-size:27px 27px; } 
+.facebook {background:url(../imagenes/pie/face.png) no-repeat; background-size:27px 27px; }
+.flickr {background:url(../imagenes/pie/flickr.png) no-repeat; background-size:27px 27px; }
+.instagram {background:url(../imagenes/pie/insta.png) no-repeat; background-size:27px 27px; }
+.youtube {background:url(../imagenes/pie/yt.png) no-repeat; background-size:27px 27px; }
+
+ul.desarrollo { padding-top:0px; margin-bottom:6px; }
+.desarrollo li { display:inline-block; margin:0px 8px;}
+.desarrollo a { display:block; -webkit-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s;  -o-transition: all 0.3s ease 0s;
+transition: all 0.3s ease 0s; }
+ul.desarrollo a {text-indent:-9000px; text-decoration:none; }
+
+.logo1 {background:url(../images/logo_tp_inferior.png) no-repeat; background-size:164px 46px;  width:164px; height:46px; }
+.logo2 {background:url(../images/logo_shcp_inferior.png) no-repeat; background-size:174px 52px;  width:174px; height:52px; } 
+.logo3 {background:url(../images/logos_goboax_inferior.png) no-repeat; background-size:218px 52px;  width:218px; height:52px; } 
+.logo4 {background:url(../images/logo_ot_inferior.png) no-repeat; background-size:44px 44px;  width:44px; height:44px; } 
+
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+.filter{
+	font-family:Arial;
+	font-size:11.5px;
+	color:#616264;
+	display:block;
+	margin-top:8px;
+	margin-left:-10px;
+	padding-bottom:0px; font-stretch:ultra-condensed;
+}
+
+.filter th{
+	font-style:italic;
+	font-size:12px; 
+	font-weight:700; 
+	color:#fff; 
+	background:url(../images/cintillo.png) no-repeat; 
+	height:31px;
+	text-align:left;
+	padding-left:13px; padding-top:4px; 
+	vertical-align:top; width:229px;
+}
+
+.im{
+	margin-right:3px;
+	 width:15px; height:19px;
+		
+}
+
+#Avfinan td{
+	border-top:1px solid #757577;
+	border-bottom:1px solid #757577; height:10px; background:#009DDF;
+	width:72px;
+}
+
+#Avfisic td{
+	width:25px; height:18px;
+	background:url(../images/marca/ballG.gif) no-repeat;
+}
+
+#AvfisicEtiq{
+	font-family:Arial;
+	font-weight:bold;
+	font-size:12px;
+	margin-top:10px;
+}
+
+.f1{
+	color:#E51F24;
+}
+
+.f2{
+	color:#F66F20;
+}
+
+.f3{
+	color:#FFD712;
+}
+
+.f4{
+	color:#28993A;
+}
+
+.picG{
+	margin-top:-20px;
+	height:184px; 
+	width:288px;
+	margin-bottom:10px; 
+}
+
+
+.busc{
+ margin-left:10px;
+ margin-top:8px;		
+}
+
+.obra{
+	float:right;
+	text-align:right;
+	margin-right:20px;
+    margin-top:-26px;
+	color:#FFF;
+	font-size:11px;
+	
+}
+
+
+.titObra{
+	font-family:Arial;
+	font-size:12px;
+	color:#fff;
+	margin-top:-40px;
+	text-align:right; margin-right:16px;
+}
+
+.titNota{
+   	font-family:Arial; font-weight:bold;
+	font-size:18px; line-height:13px;
+	color:#009DDF;
+	margin-top:5px;	
+}
+
+
+.DtsObra{
+   	font-family:Arial; 
+	font-size:14px; 
+	color:#757577;
+	margin-left:15px;
+}
+
+
+.por{
+   	color:#009DDF;	
+	font-family:Arial; font-weight:bold;
+	font-size:25px;
+}
+
+.Graf{
+   	color:#868686;	
+	font-family:Arial; 
+	font-size:12px;
+}
+
+.tit{
+	font-weight:bold;
+	margin-top:15px;
+	color:#757577;
+}
+
+.titDen{
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	color:#737373;
+	margin-left:13px;
+	line-height:13px;
+}
+
+.cpDen{
+	font-family:arial;
+	font-size:12px;
+	color:#868686;
+	margin-left:0px;
+	line-height:13px;
+}
+
+.datosDen{ width:100%; text-align:left;
+}
+
+.datosDen td{
+	border-bottom:1px dashed #868686;
+	text-align:left; padding-bottom:10px;
+	padding-top:10px;
+}
+
+.datosForm{
+	font-family:Arial;
+	font-size:14px;
+	color:#737373;
+	margin-left:25px;
+}
+
+.datosForm td{
+	font-family:Arial;
+	font-size:14px;
+	color:#737373; padding-bottom:10px;
+}
+
+
+.logoportal{ 
+	height: 88px;
+	max-width: 50%; 
+	float:left; 
+	display: table-cell; 
+	padding-left: 20px;
+}
+
+.logoficial{
+	height: 88px;
+	max-width:50%;  		
+	float:right;
+	display: table-cell;
+	padding-top:25px;
+	padding-right: 20px;
+	
+}
+
+.lg{ margin-right:10px;}
+.logoredes{
+	float:right; 
+	text-align:right;
+	height:25px;
+	width:402px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+
+

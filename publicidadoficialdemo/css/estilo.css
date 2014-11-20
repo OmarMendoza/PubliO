@@ -1,0 +1,460 @@
+
+/*!
+ * Gridpak Beta CSS
+ *
+ * Generator - http://gridpak.com/
+ * Created by @erskinedesign
+ */
+ 
+
+
+div {
+margin: 0px;
+padding:0px;
+}
+
+.ui-dialog-title{
+    font-size: 24px;
+	background:#00F;
+	width:600px;	
+}
+
+
+.opciones a:active {
+text-decoration: none;
+text-decoration: underline; 
+}
+
+.opciones a:visited {
+text-decoration: none;
+}
+
+.opciones a:hover {
+text-decoration: none;
+/*text-decoration: underline;	*/
+}
+
+
+.logos {
+
+max-width: 100%;
+overflow:hidden;
+position:relative;
+background: url('../imagenes/sombra.gif') repeat-x ;
+background-position: bottom;
+height:130px;
+visibility:visible z-index:1
+
+}
+
+.gradiente_superior {
+max-width: 100%;
+overflow:hidden;
+position:relative;
+background: url('../imagenes/gradiente-superior.jpg') top repeat-x;
+}
+
+.page {
+margin: 0 auto;
+max-width: 1000px;
+overflow:hidden;
+position:relative;
+font-weight: lighter;
+font-family:Arial;
+font-size: 14px;
+}
+
+.page2 {
+width: 100%;
+height:200px;
+background:#343433; 
+border-top:8px solid #000;
+}
+
+.pie {
+margin: 0 auto;
+max-width: 1000px;
+overflow:hidden;
+position:relative;
+font-weight: lighter;
+font-family:Arial;
+font-size: 14px;
+}
+
+a {
+text-decoration: none;
+}
+
+.grocery {
+margin: 0 auto;
+max-width: 1000px;
+overflow:hidden;
+position:relative;
+font-weight: lighter;
+font-family:Arial;
+font-size: 14px;
+/*border:1px solid #cdcdcd;*/
+padding:20px 0px 10px 0px;
+}
+
+.div1 {
+margin: 0 auto;
+max-width: 1000px;
+overflow:hidden;
+position:relative;
+font-weight: lighter;
+font-family:Arial;
+font-size: 14px;
+border:1px solid #cdcdcd;
+}
+
+.menu{		
+background: #7F7F7F;
+height: 40px;	
+/*z-index: 9999;*/
+position: relative;
+}
+
+.menu ul, li {
+list-style-type: none;
+}
+
+.menu ul {
+margin: 0;
+padding: 0;
+}
+.menu li {
+float: left;	
+}
+
+.menu a {
+text-decoration: none;
+color:#fff; 
+font-weight: lighter;
+font-family:Arial;
+font-size: 14px;
+display: block;
+padding: 12px 27px;
+text-align: center;
+font-weight:bold;
+}
+
+.menu2{		
+background: #7F7F7F;
+height: 31px;	
+z-index: 9999;
+width:320px;
+
+font-size: 14px;
+font-weight:bold;
+	
+}
+
+.menu2 a {
+text-decoration: none;
+color:#fff; 
+font-weight: lighter;
+font-family:Arial;
+font-size: 14px;
+display: block;
+font-weight:bold;
+padding: 5px;
+}
+
+.menu2 ul, li {
+list-style-type: none;
+}
+
+.menu2 ul {
+margin: 0;
+padding: 0;
+}
+
+.menu2 li {
+float: left;
+text-align:center;	
+}
+
+.menu2 li#primero {
+font-family:Arial;
+/*padding: 0px 0px 10px 0px;*/
+background: #000 url('../imagenes/flecha.png') no-repeat;
+background-position:center 27px; 
+/*color:#02B3E7;
+/*background-color:#309;*/
+color:#fff;
+text-align:center;
+margin-top:-7px;
+padding-top:6px;
+height:32px;
+}
+
+
+.opciones{
+	font-size: 14px;
+	font-weight:bold;
+}
+
+.opciones a {
+color:#fff;
+background:#7F7F7F;
+padding: 5px 5px 10px 5px;
+text-decoration: none;
+}
+
+.columnaregular {
+	background-color:#FFFFFF; 
+}
+
+.columnairregular{
+	background-color:#FFFFFF;
+}
+
+.opciones a#primero {
+font-family:Arial;
+padding: 5px 5px 10px 5px;
+background: #000 url('../imagenes/flecha.png') no-repeat;
+background-position:center 20px; 
+/*color:#02B3E7;
+/*background-color:#309;*/
+color:#fff;
+}
+
+#buscar{
+	margin-top:8px;
+	height:27px;
+	background: #BBB8B6 url('../imagenes/lupa.gif') no-repeat;	
+	background-position: bottom 5px right 10px;
+	font-family:Arial;
+	/*font-weight:bold;*/
+	color:#666;
+	border:0px;
+}
+
+#agregar {
+font-size: 14px;
+font-weight:bold;
+color:#fff;
+background:#7F7F7F;
+padding: 5px 5px 10px 5px;
+text-decoration: none;
+}
+
+#regresar {
+font-size: 14px;
+font-weight:bold;
+color:#666;
+background:url('../imagenes/flecha_azul.png') no-repeat;
+background-position: left;
+background-color: #06F 10px;
+padding: 5px 0px 10px 35px;
+text-decoration: none;
+}
+
+.menu a#primero {
+font-family:Arial;
+color:#fff;
+background-color:#231F20;
+margin-top:-7px;
+padding-top:19px;
+height:16px;
+/*border: 1px solid red;*/
+}
+
+.menu a:hover {
+font-family:Arial;
+color: #D8D8D8 ;
+}        
+
+
+.preview
+{
+width:120px;
+padding:3px;
+border:solid 1px #dedede;
+height:120px;
+margin-left:0px;
+margin-top:0px;
+}
+
+#preview
+{
+margin-top:5px;
+width:130px;
+padding:0px;
+/*background:#EFEFEF;*/
+height:160px;
+}
+
+.preview2
+{
+width:120px;
+padding:3px;
+border:solid 1px #dedede;
+height:120px;
+margin-left:0px;
+margin-top:0px;
+}
+
+#preview2
+{
+margin-top:5px;
+width:130px;
+padding:0px;
+/*background:#EFEFEF;*/
+height:160px;
+}
+
+.previewvideo
+{
+width:120px;
+padding:3px;
+border:solid 1px #dedede;
+height:120px;
+margin-left:0px;
+margin-top:0px;
+}
+
+#previewvideo
+{
+margin-top:5px;
+width:130px;
+padding:0px;
+/*background:#EFEFEF;*/
+height:160px;
+}
+
+.previewaudio
+{
+width:120px;
+padding:3px;
+border:solid 1px #dedede;
+height:120px;
+margin-left:0px;
+margin-top:10px;
+}
+
+#previewaudio
+{
+margin-top:15px;
+width:130px;
+padding:0px;
+/*background:#EFEFEF;*/
+height:160px;
+}
+
+.previewutiliarios
+{
+width:120px;
+padding:3px;
+border:solid 1px #dedede;
+height:120px;
+margin-left:0px;
+margin-top:0px;
+}
+
+#previewutiliarios
+{
+margin-top:5px;
+width:130px;
+padding:0px;
+/*background:#EFEFEF;*/
+height:160px;
+}
+
+.previewotros
+{
+width:120px;
+padding:3px;
+border:solid 1px #dedede;
+height:120px;
+margin-left:0px;
+margin-top:0px;
+}
+
+#previewotros
+{
+margin-top:5px;
+width:130px;
+padding:0px;
+/*background:#EFEFEF;*/
+height:160px;
+}
+
+
+
+div.upload{
+margin-top:6px;
+/*background:url(images/btn_01.jpg) no-repeat;*/
+width:141px;
+height:28px;	
+position: relative;
+overflow:hidden;
+}
+			
+div.upload input {
+position: absolute;
+left: auto;
+right: 0px;
+top: 0px;
+margin:0;
+padding:0;
+filter: Alpha(Opacity=0);
+-moz-opacity: 0;
+opacity: 0;
+}
+
+h2{
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+    color: #02b3e3;
+}
+
+.boton{
+	background:#6DA8C6;
+	border:1px solid #6DA8C6;
+	color:#FFF;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-right:5px;
+	padding-left:5px;
+}
+
+.grocery input[type=text]{
+	font-size: 12px;
+	width: 500px;	
+	height:20px;
+	border: 1px solid #AAA;
+	padding: 3px 3px 3px 3px;
+	background: #fafafa;
+}
+
+
+
+.grocery input[type=text]:hover
+{
+	border: 1px solid #02b3e3;
+	background: #fff;
+}
+
+.grocery input[type=text]:focus
+{
+	border: 1px solid #02b3e3;
+	background: #fff;		
+}
+
+#campos_login input[type=submit]{
+				 width:161px;
+				 height:33px;
+				 border:none;                 
+                 background: url('../imagenes/is.gif') no-repeat;
+                 /*color: #A9A9F5;*/
+				
+				/* font-weight: bold;*/		
+				 margin-top:20px;
+				 margin-left:155px;
+				 margin-bottom:20px;
+				 /*font-weight: bold;*/
+				 
+             }

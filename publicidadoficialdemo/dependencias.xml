@@ -1,0 +1,30 @@
+<dependencias>
+	<registro>
+		<id_dependencia>2</id_dependencia>
+		<dependencia>Secretaría de Turismo y Desarrollo Económico (STyDE)</dependencia>
+	</registro>
+	<registro>
+		<id_dependencia>3</id_dependencia>
+		<dependencia>Secretaría de Salud / Servicios de Salud de Oaxaca (SSO)</dependencia>
+	</registro>
+	<registro>
+		<id_dependencia>4</id_dependencia>
+		<dependencia>Secretaría de la Contraloría y Transparencia Gubernamental (SCTG)</dependencia>
+	</registro>
+	<registro>
+		<id_dependencia>5</id_dependencia>
+		<dependencia>Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca (ADOSAPACO)</dependencia>
+	</registro>
+	<registro>
+		<id_dependencia>6</id_dependencia>
+		<dependencia>Secretaría de Desarrollo Social y Humano (SEDESOH)</dependencia>
+	</registro>
+	<registro>
+		<id_dependencia>7</id_dependencia>
+		<dependencia>Coordinación de Comunicación Social del Poder Ejecutivo</dependencia>
+	</registro>
+	<registro>
+		<id_dependencia>9</id_dependencia>
+		<dependencia>Secretaría de Seguridad Pública (SSPO)</dependencia>
+	</registro>
+</dependencias>

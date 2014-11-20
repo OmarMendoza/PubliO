@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>Elated.com | Snazzy Animated Pie Chart with HTML5 and jQuery - Demo</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+
+<style>
+
+.tabladetallecampa td{
+	width:50%;		
+}
+
+.tablacampas .con_raya{	
+	border-right: 1px solid #00B5E2;
+}
+
+.letra{
+	font-weight: bold;
+	color:#00B5E2;
+}
+.letra_radio{
+	font-weight: bold;
+	color:#6DA8C6;
+}
+.letra_tv{
+	font-weight: bold;
+	color:#42677A;
+}
+
+.letra_prensa{
+	font-weight: bold;
+	color:#49507A;
+}
+.letra_internet{
+	font-weight: bold;
+	color:#231F20;
+}
+
+.raya{
+	border-bottom: 1px dashed #7F7F7F;
+	margin-top:10px;
+	margin-bottom:10px;
+	width: 80%;				
+}
+
+.raya_radio{
+	border-bottom: 2px solid #6DA8C6;
+	margin-top:10px;
+	margin-bottom:10px;
+	width: 60%;				
+}
+
+.raya_tv{
+	border-bottom: 2px solid #42677A;
+	margin-top:10px;
+	margin-bottom:10px;
+	width: 60%;				
+}
+
+.raya_prensa{
+	border-bottom: 2px solid #49507A;
+	margin-top:10px;
+	margin-bottom:10px;
+	width: 60%;				
+}
+
+.raya_internet{
+	border-bottom: 2px solid #231F20;
+	margin-top:10px;
+	margin-bottom:10px;
+	width: 60%;				
+}
+
+.raya_completa{
+	border-bottom: 1px solid #7F7F7F;
+	margin-top:10px;
+	margin-bottom:10px;
+	width: 100%;				
+}
+
+.volver{
+	background: url('../../../imagenes/volver.gif') no-repeat;
+	width:80px;
+	height:28px;
+	border:none
+}
+
+.numero_chico{	
+	color:#00B5E2;
+	font-size:30px;
+}
+
+.tablamedios{
+	font-weight: bold;
+	color:#7B7D7C;
+}
+
+.tablamedios .con_raya{	
+	border-right: 2px solid #BEBEBE;
+}
+
+
+
+
+
+
+body {
+  background: #fff;
+  color: #333;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  padding: 40px;
+}
+
+.wideBox {
+  clear: both;
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 10px;
+  background: #ebedf2;
+  border: 1px solid #333;
+  line-height: 80%;
+}
+
+#container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+#chart, #chartData {
+  border: 1px solid #333;
+  background: #ebedf2 url("images/gradient.png") repeat-x 0 0;
+}
+
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+}
+
+#chartData {
+  width: 200px;
+  margin: 0 40px 0 0;
+  float: right;
+  border-collapse: collapse;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+  background-position: 0 -100px;
+}
+
+#chartData th, #chartData td {
+  padding: 0.5em;
+  border: 1px dotted #666;
+  text-align: left;
+}
+
+#chartData th {
+  border-bottom: 2px solid #333;
+  text-transform: uppercase;
+}
+
+#chartData td {
+  cursor: pointer;
+}
+
+#chartData td.highlight {
+  background: #e8e8e8;
+}
+
+#chartData tr:hover td {
+  background: #f0f0f0;
+}
+
+</style>
+
+<link rel="stylesheet" type="text/css" href="http://localhost/publicidadoficial/carrusel/css/carrusel.css">   
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<!--[if IE]>
+<script src="http://explorercanvas.googlecode.com/svn/trunk/excanvas.js"></script>
+<![endif]-->
+<script src="http://localhost/publicidadoficial/graficacircular/grafica.js"></script>
+
+</head>
+<body>
+
+
+  <canvas id="chart" width="500" height="400"></canvas>
+
+<br><br>
+  <table id="chartData">
+
+    <tr>
+      <th>opcion 1</th><th>Sales ($)</th>
+     </tr>
+
+    <tr style="color: red">
+      <td>opcion 2</td><td>1862.12</td>
+    </tr>
+
+    <tr style="color: #194E9C">
+      <td>opcion 3</td><td>1316.00</td>
+    </tr>
+
+    <tr style="color: #ED9C13">
+      <td>opcion 4</td><td>712.49</td>
+    </tr>
+    
+  </table>
+
+
+</body>
+</html>
+
